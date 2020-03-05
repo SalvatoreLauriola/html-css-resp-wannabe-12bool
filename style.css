@@ -1,0 +1,36 @@
+/* general style */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+#blu img {
+  background-color: blue;
+  border-radius: 50%;
+  padding: 30px;
+}
+
+.grey {
+  background: #ccc;
+}
+
+img {
+  height: 200px;
+  max-width: 100%;
+}
+
+
+.margin {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.margin h1,
+.margin h2,
+.margin h3,
+.margin h4,
+.margin p  {
+  margin: 50px 0;
+}
